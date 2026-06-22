@@ -1,3 +1,6 @@
+# URL Shortener API - AWS Lambda
+# Author: Sharon | Deployed via GitHub Actions
+
 import json
 import boto3
 import random
